@@ -173,3 +173,7 @@ D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas
 D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
 D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
 D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
