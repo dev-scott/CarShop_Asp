@@ -162,3 +162,14 @@ D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\bin\Debug\net5.0\runtimes\wi
 D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Index.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Create.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Edit.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Details.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\ProductTypes\Delete.cshtml.g.cs
+D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs

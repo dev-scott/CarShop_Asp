@@ -12,7 +12,22 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\Areas\Customer\Views\_ViewImports.cshtml"
+using CarShop;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "D:\@Code\Web\FullStack\AspEcommerce\CarShop\CarShop\Areas\Customer\Views\_ViewImports.cshtml"
+using CarShop.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Areas/Customer/Views/Home/Index.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fe4c0d735d051fba12fbf7807849e7c1ea31600c", @"/Areas/Customer/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Areas_Customer_Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
